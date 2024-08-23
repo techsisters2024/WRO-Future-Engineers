@@ -1,6 +1,6 @@
 Engineering materials
 ====
-We used Arduino, raspberry pi, webcam, and wheels from our school’s Lego set.
+We used sensors, raspberry pi, webcam, and wheels from our school’s Lego set.
 ### Raspberry Pi 4 
 `We used it because it had the storage for all the sensors we choose to use and was better for running the complex algorithm of the colour sensing camera.`
 ### Raspberry Pico 2
