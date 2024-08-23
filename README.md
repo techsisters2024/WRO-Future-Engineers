@@ -65,4 +65,4 @@ Steering Control:
 2. The vehicle continuously measures distance and captures camera images. It processes color data to detect obstacles and adjust its path based on both distance and color information.
 3. Depending on detected colors (red or green) and proximity to obstacles, the vehicle will turn, move forward, or stop to navigate effectively.
 
-In order to 
+In order to integrate all of the electromechanical components into the vehicle check the schemes and the src folders for additional details about wiring abd coding. 
